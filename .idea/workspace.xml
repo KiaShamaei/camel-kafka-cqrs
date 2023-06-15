@@ -5,31 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f59dcb27-1e2c-4984-8c8b-83d3ce2d8c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command-demo/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command-demo/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query-demo/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query-demo/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/SampelLoggerOfCamel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/DemoApplicationCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/DemoApplicationCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductCommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/java/com/cqrs/command/demo/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command-demo/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/command-demo/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/DemoApplicationQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/DemoApplicationQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/java/com/cqrs/query/demo/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query-demo/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query-demo/src/main/resources/banner.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,12 +55,61 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17"
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/springClass/kafkaCQRSwithCamelSeda/cqrcKafka",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "4ad6f6933ed54df5361cfed6557d0994"
   }
 }]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplicationQuery">
+    <configuration name="DemoApplicationCommand" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="command-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cqrs.command.demo.DemoApplicationCommand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cqrs.command.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationQuery" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="query-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cqrs.query.demo.DemoApplicationQuery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cqrs.query.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplicationQuery" />
+        <item itemvalue="Spring Boot.DemoApplicationCommand" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +118,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686080126076</updated>
-      <workItem from="1686080127789" duration="1358000" />
+      <workItem from="1686080127789" duration="3925000" />
+      <workItem from="1686668364282" duration="1622000" />
+      <workItem from="1686812516367" duration="11760000" />
     </task>
     <servers />
   </component>
